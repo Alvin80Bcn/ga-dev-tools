@@ -6,7 +6,6 @@ Libraries. **[View the Site]**
 ## Submitting Feedback / Reporting Bugs
 
 ### For the Demos & Tools site
-
 - You may report bugs by [submitting an issue].
 - You may also submit an issue to [request a new demo or tool].
 
@@ -46,7 +45,7 @@ Then run the following (from the top level directory) and answer all prompts:
 
 
 ```shell
-yarn start:app:production
+
 ```
 
 > All prompts can be skipped, but certain demos rely on prompt answers to fully
